@@ -15,10 +15,10 @@ export const links = [
     name: "About",
     hash: "#about",
   },
-  {
-    name: "Projects",
-    hash: "#projects",
-  },
+  // {
+  //   name: "Projects",
+  //   hash: "#projects",
+  // },
   {
     name: "Skills",
     hash: "#skills",
@@ -44,7 +44,7 @@ export const experiencesData = [
   },
   {
     title: "Front-End Developer",
-    location: "Ho Chi Minh City, Vietnam",
+    location: "Gridly - Ho Chi Minh City, Vietnam",
     description:
       "I worked as a front-end developer for 1 years in 1 job .I also improved my skills in coding and debating and raising issues in features.",
     icon: React.createElement(CgWorkAlt),
@@ -98,4 +98,5 @@ export const skillsData = [
   "Netlify",
   "Figma",
   "CMS",
+  "DrizzleORM",
 ] as const;
