@@ -37,17 +37,25 @@ export const experiencesData = [
     title: "Sefl-taught",
     location: "Ho Chi Minh City, Vietnam",
     description:
-      "After 6 months of studying. I immediately found a job as a front-end developer.",
+      " After six months of self-study, you successfully transitioned into a front-end developer role.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022",
+    date: "07/2022",
+  },
+  {
+    title: "Intern Front-End Developer",
+    location: "Gridly - Ho Chi Minh City, Vietnam",
+    description:
+      "Joined Gridly as an intern front-end developer, gaining practical experience and further honing your skills.",
+    icon: React.createElement(CgWorkAlt),
+    date: "03/2023 - 05/2023",
   },
   {
     title: "Front-End Developer",
     location: "Gridly - Ho Chi Minh City, Vietnam",
     description:
-      "I worked as a front-end developer for 1 year in 1 job .I also improved my skills in coding and debating and raising issues in features.",
+      "Promoted to a full-fledged front-end developer role at Gridly, where you continued to refine your coding abilities and developed expertise in feature development, issue resolution, and effective communication within the team..",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
+    date: "05/2023 - 2024",
   },
 ] as const;
 
