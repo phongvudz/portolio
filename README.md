@@ -1,5 +1,4 @@
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
 
 ## What you will learn
 
