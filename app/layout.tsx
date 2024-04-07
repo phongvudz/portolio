@@ -11,7 +11,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Phong Vũ | Personal Portfolio",
-  description: "Phong Vũ is a front-end developer with 1 years of experience.",
+  description:
+    "Phong Vũ is a front-end developer with 1,5 years of experience.",
 };
 
 export default function RootLayout({
@@ -32,7 +33,6 @@ export default function RootLayout({
             <Header />
             {children}
             <Footer />
-
             <Toaster position="top-right" />
             <ThemeSwitch />
           </ActiveSectionContextProvider>

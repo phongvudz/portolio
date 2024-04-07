@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        after graduating from <span className="font-medium">High school</span>,
+        After graduating from <span className="font-medium">High school</span>,
         I decided to pursue my passion for programming. I self-taught front-end
         web development.{" "}
         <span className="italic">My favorite part of programming</span> is the

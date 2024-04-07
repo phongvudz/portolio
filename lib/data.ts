@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
@@ -38,7 +37,7 @@ export const experiencesData = [
     title: "Sefl-taught",
     location: "Ho Chi Minh City, Vietnam",
     description:
-      "After 9 months of studying. I immediately found a job as a front-end developer.",
+      "After 6 months of studying. I immediately found a job as a front-end developer.",
     icon: React.createElement(LuGraduationCap),
     date: "2022",
   },
@@ -46,7 +45,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Gridly - Ho Chi Minh City, Vietnam",
     description:
-      "I worked as a front-end developer for 1 years in 1 job .I also improved my skills in coding and debating and raising issues in features.",
+      "I worked as a front-end developer for 1 year in 1 job .I also improved my skills in coding and debating and raising issues in features.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - 2024",
   },
@@ -99,4 +98,7 @@ export const skillsData = [
   "Figma",
   "CMS",
   "DrizzleORM",
+  "Elysia",
+  "Problem Solving",
+  "Communicating",
 ] as const;
